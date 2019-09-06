@@ -33,7 +33,7 @@ describe('Test suite for Musician store REST API', () => {
     expect(responseBody).not.toBeNull();
     expect(responseBody).toHaveProperty('firstName');
     expect(responseBody).toHaveProperty('lastName');
-    expect(responseBody).toHaveProperty('genre');
+    expect(responseBody).toHaveProperty('Ganre');
   });
 
   test('It should fetch a musician via the GET method - error case', async () => {
