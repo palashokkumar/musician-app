@@ -19,13 +19,13 @@ module.exports = {
   },
 
   hendrix: {
-    firstName: 'Jimi',
+    firstName: 'Sandeep',
     lastName: 'Hendrix',
     genre: 'Rock',
   },
 
   cobain: {
-    firstName: 'Kurt',
+    firstName: 'Chetan',
     lastName: 'Cobain',
     genre: 'Rock',
   },
